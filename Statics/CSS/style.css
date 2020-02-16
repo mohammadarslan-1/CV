@@ -1,22 +1,43 @@
- body {
-     background-color: #D4f3dD;
+/* Tag styling */
+body {
+     background-color: #eaf6f6;
  }
 h1 {
-    color: red;
+    color: #66bfbf;
+    font-size: 60px;
 }
 h2 {
-     color: blue;
+     color: #66bfbf;
+     font-size: 40px;
 }
 h3 {
-    color: blue;
+    color: #66bfbf;
+    font-size: 40px;
 } 
+hr {
+    border-style: none;
+    color: grey;
+    border-top-style: dotted;
+    height: 20px;
+    border-width: 5px;
+    width: 10%;
+}
+img {
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}
 a {
-    color: orange;
+    color: black;
 }
-.ARSLAN {
-    font-size: small;
+a:hover {
+    color: #66bfbf;
 }
-#ARS {
-    color: green;
-    font-size: x-large;
+/* Class styling */
+.clearAll {
+    border-radius: 0%;
 }
+.specificWidth {
+    width: 200px;
+}
+/* Identification */
