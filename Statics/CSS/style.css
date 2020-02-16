@@ -1,0 +1,22 @@
+ body {
+     background-color: #D4f3dD;
+ }
+h1 {
+    color: red;
+}
+h2 {
+     color: blue;
+}
+h3 {
+    color: blue;
+} 
+a {
+    color: orange;
+}
+.ARSLAN {
+    font-size: small;
+}
+#ARS {
+    color: green;
+    font-size: x-large;
+}
